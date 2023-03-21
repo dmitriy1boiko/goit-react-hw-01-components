@@ -10,8 +10,8 @@ export const ListStatus = styled.span`
   height: 20px;
   margin-right: 20px;
   border-radius: 50%;
-  
-  background-color: ${props =>{
+
+  background-color: ${props => {
     return props.online ? 'green' : 'red';
   }};
 `;

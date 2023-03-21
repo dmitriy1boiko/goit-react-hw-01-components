@@ -6,9 +6,9 @@ export const TransactionBodyList = styled.tr`
   }
 `;
 
-export const TransactionBodyItem = styled.td`  
+export const TransactionBodyItem = styled.td`
   font-size: 16px;
-  color: rgba(0, 0, 0, .7);
+  color: rgba(0, 0, 0, 0.7);
   text-transform: capitalize;
   text-align: center;
   padding: 15px;
